@@ -1,0 +1,1 @@
+pytest -v -m "regression" --html=./Reports/TestReport.html --browser chrome

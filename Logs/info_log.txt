@@ -1,0 +1,401 @@
+2021-05-15 18:24:06,056 - utilities.customLogger - INFO - Information
+2021-05-15 18:24:06,057 - utilities.customLogger - WARNING - warning
+2021-05-15 18:24:06,057 - utilities.customLogger - ERROR - Error
+2021-05-15 18:24:12,110 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 18:24:12,110 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 18:24:24,633 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2021-05-15 18:24:30,852 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 18:24:39,198 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 19:15:18,631 - utilities.customLogger - INFO - Information
+2021-05-15 19:15:18,631 - utilities.customLogger - WARNING - warning
+2021-05-15 19:15:18,631 - utilities.customLogger - ERROR - Error
+2021-05-15 19:15:47,655 - utilities.customLogger - INFO - Information
+2021-05-15 19:15:47,655 - utilities.customLogger - WARNING - warning
+2021-05-15 19:15:47,655 - utilities.customLogger - ERROR - Error
+2021-05-15 19:15:56,341 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 19:15:56,342 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 19:16:06,827 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 19:16:15,331 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 19:16:27,592 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 19:17:10,910 - utilities.customLogger - INFO - Information
+2021-05-15 19:17:10,911 - utilities.customLogger - WARNING - warning
+2021-05-15 19:17:10,911 - utilities.customLogger - ERROR - Error
+2021-05-15 19:17:17,231 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 19:17:17,231 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 19:18:00,794 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 19:18:06,854 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 19:18:22,968 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 20:36:33,869 - utilities.customLogger - INFO - Information
+2021-05-15 20:36:33,869 - utilities.customLogger - WARNING - warning
+2021-05-15 20:36:33,870 - utilities.customLogger - ERROR - Error
+2021-05-15 20:36:54,521 - utilities.customLogger - INFO - Information
+2021-05-15 20:36:54,521 - utilities.customLogger - WARNING - warning
+2021-05-15 20:36:54,521 - utilities.customLogger - ERROR - Error
+2021-05-15 20:37:22,260 - utilities.customLogger - INFO - Information
+2021-05-15 20:37:22,261 - utilities.customLogger - WARNING - warning
+2021-05-15 20:37:22,261 - utilities.customLogger - ERROR - Error
+2021-05-15 20:38:48,380 - utilities.customLogger - INFO - Information
+2021-05-15 20:38:48,380 - utilities.customLogger - WARNING - warning
+2021-05-15 20:38:48,381 - utilities.customLogger - ERROR - Error
+2021-05-15 20:44:07,189 - utilities.customLogger - INFO - Information
+2021-05-15 20:44:07,189 - utilities.customLogger - WARNING - warning
+2021-05-15 20:44:07,190 - utilities.customLogger - ERROR - Error
+2021-05-15 20:46:33,930 - utilities.customLogger - INFO - Information
+2021-05-15 20:46:33,930 - utilities.customLogger - WARNING - warning
+2021-05-15 20:46:33,930 - utilities.customLogger - ERROR - Error
+2021-05-15 20:46:37,356 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 20:46:37,357 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 20:46:45,143 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 20:46:47,145 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 20:46:55,844 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 21:03:37,467 - utilities.customLogger - INFO - Information
+2021-05-15 21:03:37,467 - utilities.customLogger - WARNING - warning
+2021-05-15 21:03:37,467 - utilities.customLogger - ERROR - Error
+2021-05-15 21:03:39,203 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 21:03:39,204 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 21:03:52,732 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 21:03:54,476 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 21:04:04,495 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 21:04:22,342 - utilities.customLogger - INFO - Information
+2021-05-15 21:04:22,342 - utilities.customLogger - WARNING - warning
+2021-05-15 21:04:22,343 - utilities.customLogger - ERROR - Error
+2021-05-15 21:04:24,073 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 21:04:24,073 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 21:04:31,604 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 21:04:33,531 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 21:04:41,388 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 21:05:14,629 - utilities.customLogger - INFO - Information
+2021-05-15 21:05:14,629 - utilities.customLogger - WARNING - warning
+2021-05-15 21:05:14,630 - utilities.customLogger - ERROR - Error
+2021-05-15 21:05:23,010 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 21:05:23,011 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 21:05:33,308 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-15 21:05:41,262 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 21:05:52,788 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 21:20:57,518 - utilities.customLogger - INFO - Information
+2021-05-15 21:20:57,518 - utilities.customLogger - WARNING - warning
+2021-05-15 21:20:57,518 - utilities.customLogger - ERROR - Error
+2021-05-15 21:20:57,647 - utilities.customLogger - INFO - Information
+2021-05-15 21:20:57,647 - utilities.customLogger - WARNING - warning
+2021-05-15 21:20:57,647 - utilities.customLogger - ERROR - Error
+2021-05-15 21:21:07,347 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-15 21:21:07,348 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-15 21:21:07,389 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-15 21:21:17,550 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-15 21:21:19,095 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-16 15:56:52,560 - utilities.customLogger - INFO - Information
+2021-05-16 15:56:52,560 - utilities.customLogger - WARNING - warning
+2021-05-16 15:56:52,561 - utilities.customLogger - ERROR - Error
+2021-05-16 15:58:03,740 - utilities.customLogger - INFO - Information
+2021-05-16 15:58:03,740 - utilities.customLogger - WARNING - warning
+2021-05-16 15:58:03,740 - utilities.customLogger - ERROR - Error
+2021-05-16 15:58:10,099 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-16 15:58:10,099 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-16 15:58:23,863 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-16 15:58:29,692 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 15:58:38,301 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-16 16:00:45,060 - utilities.customLogger - INFO - Information
+2021-05-16 16:00:45,060 - utilities.customLogger - WARNING - warning
+2021-05-16 16:00:45,061 - utilities.customLogger - ERROR - Error
+2021-05-16 16:00:45,192 - utilities.customLogger - INFO - Information
+2021-05-16 16:00:45,193 - utilities.customLogger - WARNING - warning
+2021-05-16 16:00:45,193 - utilities.customLogger - ERROR - Error
+2021-05-16 16:00:51,227 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-16 16:00:51,227 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-16 16:00:51,438 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 16:00:59,590 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-16 16:01:00,588 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-16 16:03:09,755 - utilities.customLogger - INFO - Information
+2021-05-16 16:03:09,755 - utilities.customLogger - WARNING - warning
+2021-05-16 16:03:09,756 - utilities.customLogger - ERROR - Error
+2021-05-16 16:03:09,855 - utilities.customLogger - INFO - Information
+2021-05-16 16:03:09,856 - utilities.customLogger - WARNING - warning
+2021-05-16 16:03:09,856 - utilities.customLogger - ERROR - Error
+2021-05-16 16:03:15,870 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-05-16 16:03:15,870 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-05-16 16:03:15,956 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 16:03:29,216 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-05-16 16:03:29,387 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-05-16 22:29:56,515 - utilities.customLogger - INFO - Information
+2021-05-16 22:29:56,515 - utilities.customLogger - WARNING - warning
+2021-05-16 22:29:56,516 - utilities.customLogger - ERROR - Error
+2021-05-16 22:30:02,805 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-16 22:30:02,805 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 22:30:15,763 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:30:17,487 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:30:22,881 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:30:22,882 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:30:28,810 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:30:28,811 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:30:28,812 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-16 22:30:28,812 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-16 22:34:43,337 - utilities.customLogger - INFO - Information
+2021-05-16 22:34:43,337 - utilities.customLogger - WARNING - warning
+2021-05-16 22:34:43,338 - utilities.customLogger - ERROR - Error
+2021-05-16 22:34:51,323 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-16 22:34:51,323 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 22:35:05,770 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:35:09,152 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:35:15,026 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:35:15,026 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:35:20,900 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:35:20,901 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:35:20,901 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-16 22:35:20,901 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-16 22:40:33,821 - utilities.customLogger - INFO - Information
+2021-05-16 22:40:33,831 - utilities.customLogger - WARNING - warning
+2021-05-16 22:40:33,831 - utilities.customLogger - ERROR - Error
+2021-05-16 22:40:41,267 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-16 22:40:41,268 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-16 22:40:55,652 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:41:05,976 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:41:11,717 - utilities.customLogger - INFO - ***Passed***
+2021-05-16 22:41:11,718 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-16 22:41:11,718 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-16 22:41:11,718 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-17 08:47:55,303 - utilities.customLogger - INFO - Information
+2021-05-17 08:47:55,303 - utilities.customLogger - WARNING - warning
+2021-05-17 08:47:55,304 - utilities.customLogger - ERROR - Error
+2021-05-17 08:48:01,996 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-17 08:48:01,997 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-17 08:48:15,349 - utilities.customLogger - INFO - ***Passed***
+2021-05-17 08:48:22,820 - utilities.customLogger - INFO - ***Passed***
+2021-05-17 08:48:29,707 - utilities.customLogger - INFO - ***Passed***
+2021-05-17 08:48:29,708 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-17 08:48:29,708 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-17 08:48:29,709 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-18 16:03:49,966 - utilities.customLogger - INFO - Information
+2021-05-18 16:03:49,967 - utilities.customLogger - WARNING - warning
+2021-05-18 16:03:49,968 - utilities.customLogger - ERROR - Error
+2021-05-18 16:03:56,565 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:03:56,565 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:04:10,200 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:04:18,120 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:04:23,959 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:04:23,960 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-18 16:04:23,960 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-18 16:04:23,961 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-18 16:05:40,303 - utilities.customLogger - INFO - Information
+2021-05-18 16:05:40,303 - utilities.customLogger - WARNING - warning
+2021-05-18 16:05:40,304 - utilities.customLogger - ERROR - Error
+2021-05-18 16:05:46,197 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:05:46,198 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:05:59,396 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:06:07,434 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:06:14,328 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:06:14,329 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-18 16:06:18,575 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-18 16:06:18,576 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-18 16:11:54,053 - utilities.customLogger - INFO - Information
+2021-05-18 16:11:54,054 - utilities.customLogger - WARNING - warning
+2021-05-18 16:11:54,054 - utilities.customLogger - ERROR - Error
+2021-05-18 16:11:59,977 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:11:59,977 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:23:33,131 - utilities.customLogger - INFO - Information
+2021-05-18 16:23:33,131 - utilities.customLogger - WARNING - warning
+2021-05-18 16:23:33,132 - utilities.customLogger - ERROR - Error
+2021-05-18 16:23:39,102 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:23:39,102 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:38:10,461 - utilities.customLogger - INFO - Information
+2021-05-18 16:38:10,462 - utilities.customLogger - WARNING - warning
+2021-05-18 16:38:10,462 - utilities.customLogger - ERROR - Error
+2021-05-18 16:38:16,396 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:38:16,397 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:39:17,407 - utilities.customLogger - INFO - Information
+2021-05-18 16:39:17,408 - utilities.customLogger - WARNING - warning
+2021-05-18 16:39:17,408 - utilities.customLogger - ERROR - Error
+2021-05-18 16:39:23,347 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:39:23,348 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:39:36,943 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:39:44,032 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:39:50,920 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:39:50,920 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-18 16:39:55,112 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-18 16:39:55,113 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-18 16:42:59,919 - utilities.customLogger - INFO - Information
+2021-05-18 16:42:59,919 - utilities.customLogger - WARNING - warning
+2021-05-18 16:42:59,919 - utilities.customLogger - ERROR - Error
+2021-05-18 16:43:05,855 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:43:05,856 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:43:19,590 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:43:26,934 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:43:33,031 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:43:33,032 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-18 16:43:37,195 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-18 16:43:37,196 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-05-18 16:44:36,578 - utilities.customLogger - INFO - Information
+2021-05-18 16:44:36,578 - utilities.customLogger - WARNING - warning
+2021-05-18 16:44:36,579 - utilities.customLogger - ERROR - Error
+2021-05-18 16:44:42,519 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-05-18 16:44:42,520 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-05-18 16:44:53,494 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:45:01,656 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:45:07,731 - utilities.customLogger - INFO - ***Passed***
+2021-05-18 16:45:07,732 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-05-18 16:45:11,898 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-05-18 16:45:11,899 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-06-03 18:05:40,615 - utilities.customLogger - INFO - Information
+2021-06-03 18:05:40,616 - utilities.customLogger - WARNING - warning
+2021-06-03 18:05:40,616 - utilities.customLogger - ERROR - Error
+2021-06-03 18:05:46,953 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 18:05:46,954 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 18:06:00,434 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 18:06:06,482 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 18:06:15,958 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-06-03 18:11:36,913 - utilities.customLogger - INFO - Information
+2021-06-03 18:11:36,913 - utilities.customLogger - WARNING - warning
+2021-06-03 18:11:36,913 - utilities.customLogger - ERROR - Error
+2021-06-03 18:11:39,477 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 18:11:39,478 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 18:11:48,115 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 18:11:50,439 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 18:11:59,165 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-06-03 18:31:01,577 - utilities.customLogger - INFO - Information
+2021-06-03 18:31:01,577 - utilities.customLogger - WARNING - warning
+2021-06-03 18:31:01,578 - utilities.customLogger - ERROR - Error
+2021-06-03 18:31:01,695 - utilities.customLogger - INFO - Information
+2021-06-03 18:31:01,695 - utilities.customLogger - WARNING - warning
+2021-06-03 18:31:01,695 - utilities.customLogger - ERROR - Error
+2021-06-03 18:31:07,923 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 18:31:08,046 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 18:31:08,046 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 18:31:17,308 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-06-03 18:31:22,124 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:07:39,460 - utilities.customLogger - INFO - Information
+2021-06-03 22:07:39,460 - utilities.customLogger - WARNING - warning
+2021-06-03 22:07:39,461 - utilities.customLogger - ERROR - Error
+2021-06-03 22:07:41,204 - utilities.customLogger - INFO - Information
+2021-06-03 22:07:41,204 - utilities.customLogger - INFO - Information
+2021-06-03 22:07:41,205 - utilities.customLogger - WARNING - warning
+2021-06-03 22:07:41,205 - utilities.customLogger - WARNING - warning
+2021-06-03 22:07:41,205 - utilities.customLogger - ERROR - Error
+2021-06-03 22:07:41,205 - utilities.customLogger - ERROR - Error
+2021-06-03 22:07:47,512 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:07:47,512 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:07:47,512 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:07:47,512 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:08:00,977 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:08:00,977 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:08:06,868 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:08:06,868 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:08:06,868 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:08:06,868 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:08:21,340 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:21,340 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:29,023 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:29,023 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:34,807 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:34,807 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:08:34,808 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-06-03 22:08:34,808 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-06-03 22:08:39,072 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-06-03 22:08:39,072 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-06-03 22:08:39,073 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-06-03 22:08:39,073 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-06-03 22:09:51,573 - utilities.customLogger - INFO - Information
+2021-06-03 22:09:51,573 - utilities.customLogger - WARNING - warning
+2021-06-03 22:09:51,573 - utilities.customLogger - ERROR - Error
+2021-06-03 22:09:52,868 - utilities.customLogger - INFO - Information
+2021-06-03 22:09:52,868 - utilities.customLogger - INFO - Information
+2021-06-03 22:09:52,868 - utilities.customLogger - WARNING - warning
+2021-06-03 22:09:52,868 - utilities.customLogger - WARNING - warning
+2021-06-03 22:09:52,868 - utilities.customLogger - ERROR - Error
+2021-06-03 22:09:52,868 - utilities.customLogger - ERROR - Error
+2021-06-03 22:09:59,017 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:09:59,017 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:09:59,017 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:09:59,017 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:10:11,505 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:10:11,505 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:10:17,568 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:10:17,568 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:10:17,568 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:10:17,568 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:10:34,469 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:10:34,469 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:21:20,321 - utilities.customLogger - INFO - Information
+2021-06-03 22:21:20,321 - utilities.customLogger - WARNING - warning
+2021-06-03 22:21:20,321 - utilities.customLogger - ERROR - Error
+2021-06-03 22:21:21,573 - utilities.customLogger - INFO - Information
+2021-06-03 22:21:21,573 - utilities.customLogger - INFO - Information
+2021-06-03 22:21:21,574 - utilities.customLogger - WARNING - warning
+2021-06-03 22:21:21,574 - utilities.customLogger - WARNING - warning
+2021-06-03 22:21:21,574 - utilities.customLogger - ERROR - Error
+2021-06-03 22:21:21,574 - utilities.customLogger - ERROR - Error
+2021-06-03 22:21:27,689 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:21:27,689 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-03 22:21:27,689 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:21:27,689 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-03 22:21:39,989 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:21:39,989 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-03 22:21:46,225 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:21:46,225 - utilities.customLogger - INFO - ********** Test_002_DDT_Logino*************
+2021-06-03 22:21:46,225 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:21:46,225 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-03 22:21:59,783 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:21:59,783 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:22:06,617 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:22:06,617 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:22:12,471 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:22:12,471 - utilities.customLogger - INFO - ***Passed***
+2021-06-03 22:22:12,472 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-06-03 22:22:12,472 - utilities.customLogger - INFO - ****Login DDT Test Case Successful*****
+2021-06-03 22:22:16,613 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-06-03 22:22:16,613 - utilities.customLogger - INFO - ********** End of DDT Test*************
+2021-06-03 22:22:16,614 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-06-03 22:22:16,614 - utilities.customLogger - INFO - ********** Completed Test_002_DDT_Login*************
+2021-06-11 18:33:12,893 - utilities.customLogger - INFO - Information
+2021-06-11 18:33:12,896 - utilities.customLogger - WARNING - warning
+2021-06-11 18:33:12,898 - utilities.customLogger - ERROR - Error
+2021-06-11 18:33:27,615 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-11 18:33:31,962 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-11 18:33:51,179 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-11 18:46:40,185 - utilities.customLogger - INFO - Information
+2021-06-11 18:46:40,186 - utilities.customLogger - WARNING - warning
+2021-06-11 18:46:40,186 - utilities.customLogger - ERROR - Error
+2021-06-11 18:46:44,254 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-11 18:46:54,322 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-06-11 19:20:45,790 - utilities.customLogger - INFO - Information
+2021-06-11 19:20:45,790 - utilities.customLogger - WARNING - warning
+2021-06-11 19:20:45,790 - utilities.customLogger - ERROR - Error
+2021-06-11 19:20:48,378 - utilities.customLogger - INFO - Information
+2021-06-11 19:20:48,378 - utilities.customLogger - INFO - Information
+2021-06-11 19:20:48,378 - utilities.customLogger - WARNING - warning
+2021-06-11 19:20:48,378 - utilities.customLogger - WARNING - warning
+2021-06-11 19:20:48,378 - utilities.customLogger - ERROR - Error
+2021-06-11 19:20:48,378 - utilities.customLogger - ERROR - Error
+2021-06-11 19:20:52,732 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-11 19:20:52,732 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-11 19:20:52,733 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-11 19:20:52,733 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-11 19:21:03,737 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2021-06-11 19:21:03,737 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2021-06-11 19:28:44,176 - utilities.customLogger - INFO - Information
+2021-06-11 19:28:44,176 - utilities.customLogger - WARNING - warning
+2021-06-11 19:28:44,176 - utilities.customLogger - ERROR - Error
+2021-06-11 19:28:44,784 - utilities.customLogger - INFO - Information
+2021-06-11 19:28:44,784 - utilities.customLogger - INFO - Information
+2021-06-11 19:28:44,784 - utilities.customLogger - WARNING - warning
+2021-06-11 19:28:44,784 - utilities.customLogger - WARNING - warning
+2021-06-11 19:28:44,784 - utilities.customLogger - ERROR - Error
+2021-06-11 19:28:44,784 - utilities.customLogger - ERROR - Error
+2021-06-11 19:37:22,242 - utilities.customLogger - INFO - Information
+2021-06-11 19:37:22,243 - utilities.customLogger - WARNING - warning
+2021-06-11 19:37:22,243 - utilities.customLogger - ERROR - Error
+2021-06-11 19:37:26,271 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-11 19:37:26,271 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-11 19:37:35,821 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-11 19:37:39,822 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2021-06-11 19:37:50,657 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2021-06-15 15:34:11,027 - utilities.customLogger - INFO - Information
+2021-06-15 15:34:11,028 - utilities.customLogger - WARNING - warning
+2021-06-15 15:34:11,029 - utilities.customLogger - ERROR - Error
+2021-06-15 15:34:15,332 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-15 15:34:15,332 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-15 15:34:25,492 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2021-06-24 15:59:45,196 - utilities.customLogger - INFO - Information
+2021-06-24 15:59:45,196 - utilities.customLogger - WARNING - warning
+2021-06-24 15:59:45,197 - utilities.customLogger - ERROR - Error
+2021-06-24 15:59:49,267 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2021-06-24 15:59:49,267 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2021-06-24 15:59:58,339 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
