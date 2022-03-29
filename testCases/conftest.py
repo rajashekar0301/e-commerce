@@ -3,6 +3,7 @@ import pytest
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import IEDriverManager
+from selenium.webdriver.chrome.options import Options
 
 
 # Fixtures are functions, which will run before each test function to which it is applied
@@ -11,13 +12,17 @@ driver =None
 def setup(browser):
     #global driver
     if browser == 'chrome':
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        options = Options()
+        options.headless = True
+        driver = webdriver.Chrome(ChromeDriverManager().install(),options=options)
         driver.maximize_window()
     elif browser == 'firefox':
         driver = webdriver.Firefox(GeckoDriverManager.install())
         driver.maximize_window()
     else:
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        options =Options()
+        options.headless=True
+        driver = webdriver.Chrome(ChromeDriverManager().install(),options=options)
         driver.maximize_window()
     return driver
 

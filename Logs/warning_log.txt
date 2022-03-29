@@ -115,3 +115,21 @@
 2021-06-15 15:34:11,029 - utilities.customLogger - ERROR - Error
 2021-06-24 15:59:45,196 - utilities.customLogger - WARNING - warning
 2021-06-24 15:59:45,197 - utilities.customLogger - ERROR - Error
+2022-03-27 13:03:23,912 - utilities.customLogger - WARNING - warning
+2022-03-27 13:03:23,912 - utilities.customLogger - ERROR - Error
+2022-03-29 21:20:26,405 - utilities.customLogger - WARNING - warning
+2022-03-29 21:20:26,487 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:06,676 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:06,676 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:07,912 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:07,912 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:07,912 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:07,912 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:25,422 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:25,422 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:28,112 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:28,112 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:28,112 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:28,112 - utilities.customLogger - ERROR - Error
+2022-03-29 21:30:22,003 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2022-03-29 21:30:22,003 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************

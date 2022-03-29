@@ -13,8 +13,8 @@ class Test_002_DDT_Login:
     path = ".//TestData//LoginData.xlsx"
     # Storing the value in logger variable , whatever return from LogGen.loggen (Class.method)
     logger = LogGen.loggen()
-    @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.sanity
+    # @pytest.mark.regression
     def test_login_ddt(self, setup):
         # Rather than direct defining Browser here, we can call Fixture from conftest.py
         # self.driver = WebDriver.Chrome()

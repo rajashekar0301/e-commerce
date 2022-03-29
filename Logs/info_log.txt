@@ -399,3 +399,50 @@
 2021-06-24 15:59:49,267 - utilities.customLogger - INFO - ********** Test_Login_001*************
 2021-06-24 15:59:49,267 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
 2021-06-24 15:59:58,339 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2022-03-27 13:03:23,877 - utilities.customLogger - INFO - Information
+2022-03-27 13:03:23,912 - utilities.customLogger - WARNING - warning
+2022-03-27 13:03:23,912 - utilities.customLogger - ERROR - Error
+2022-03-27 13:03:57,249 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2022-03-27 13:03:57,249 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2022-03-27 13:04:08,564 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2022-03-29 21:20:26,369 - utilities.customLogger - INFO - Information
+2022-03-29 21:20:26,405 - utilities.customLogger - WARNING - warning
+2022-03-29 21:20:26,487 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:06,676 - utilities.customLogger - INFO - Information
+2022-03-29 21:23:06,676 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:06,676 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:07,911 - utilities.customLogger - INFO - Information
+2022-03-29 21:23:07,911 - utilities.customLogger - INFO - Information
+2022-03-29 21:23:07,912 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:07,912 - utilities.customLogger - WARNING - warning
+2022-03-29 21:23:07,912 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:07,912 - utilities.customLogger - ERROR - Error
+2022-03-29 21:23:26,410 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2022-03-29 21:23:26,410 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2022-03-29 21:23:26,410 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2022-03-29 21:23:26,410 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2022-03-29 21:23:36,466 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2022-03-29 21:23:36,466 - utilities.customLogger - INFO - ********** Home Page Title Test Passed*************
+2022-03-29 21:23:42,661 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2022-03-29 21:23:42,661 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2022-03-29 21:23:55,673 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2022-03-29 21:23:55,673 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2022-03-29 21:29:25,422 - utilities.customLogger - INFO - Information
+2022-03-29 21:29:25,422 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:25,422 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:28,112 - utilities.customLogger - INFO - Information
+2022-03-29 21:29:28,112 - utilities.customLogger - INFO - Information
+2022-03-29 21:29:28,112 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:28,112 - utilities.customLogger - WARNING - warning
+2022-03-29 21:29:28,112 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:28,112 - utilities.customLogger - ERROR - Error
+2022-03-29 21:29:40,106 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2022-03-29 21:29:40,106 - utilities.customLogger - INFO - ********** Test_Login_001*************
+2022-03-29 21:29:40,106 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2022-03-29 21:29:40,106 - utilities.customLogger - INFO - ********** Verifying Home Page Title Scenario*************
+2022-03-29 21:30:22,003 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2022-03-29 21:30:22,003 - utilities.customLogger - ERROR - ********** Home Page Title Test Failed*************
+2022-03-29 21:30:29,431 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2022-03-29 21:30:29,431 - utilities.customLogger - INFO - ********** Verifying Login Scenario*************
+2022-03-29 21:30:54,435 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************
+2022-03-29 21:30:54,435 - utilities.customLogger - INFO - ********** User Navigated to Dashboard Page*************

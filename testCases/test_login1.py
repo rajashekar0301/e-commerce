@@ -11,8 +11,8 @@ class Test_Login_001:
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
 
-    @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.sanity
+    # @pytest.mark.regression
     def test_homePageTitle(self, setup):
         self.driver = setup
         self.driver.get(self.baseURL)
@@ -27,7 +27,7 @@ class Test_Login_001:
             self.driver.close()
             assert False
 
-    @pytest.mark.sanity
+    # @pytest.mark.sanity
     def test_login(self, setup):
         # Rather than direct defining Browser here, we can call Fixture from conftest.py
         # self.driver = WebDriver.Chrome()

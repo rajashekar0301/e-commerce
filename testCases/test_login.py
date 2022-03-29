@@ -36,6 +36,7 @@ class Test_Login_001:
             assert False
 
     @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login(self, setup):
         # Rather than direct defining Browser here, we can call Fixture from conftest.py
         # self.driver = WebDriver.Chrome()
